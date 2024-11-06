@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **DroneProject** is a Robotics class project focused on creating an AI-powered drone that can automatically find a landing spot and land safely.
+The **DroneProject** is a Robotics class project focused on creating a drone that can automatically find a landing spot and land safely.
 
 <u>CLICK ON VIDEO TO WATCH</u>
 
