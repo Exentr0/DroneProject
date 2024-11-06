@@ -6,12 +6,12 @@ The **DroneProject** is a Robotics class project focused on creating a drone tha
 
 <u>CLICK ON VIDEO TO WATCH</u>
 
-[![Result](https://img.youtube.com/vi/ljOH25H4wb8/0.jpg)](https://www.youtube.com/watch?v=ljOH25H4wb8)
+[![Result](https://img.youtube.com/vi/riaqMI52iIk/0.jpg)](https://www.youtube.com/watch?v=riaqMI52iIk)
 
 ## Achievements
 
-- **Autonomous Takeoff**: The drone can take off and hold a given altitude.
-- **Circle Tracking**: The drone detects a moving circle on the ground and adjusts its position to stay above it at given altitude.
+- **Autonomous Takeoff**: The drone can take off and hold a given altitude using PID.
+- **Circle Tracking**: The drone detects a moving circle on the ground and adjusts its position to stay above it at given altitude using PID.
 - **Camera Stabilization**: The camera on the drone stabilizes itself to compensate for the drone’s orientation, ensuring clear and steady footage.
 
 ## Future Goals
