@@ -4,12 +4,15 @@
 
 The **DroneProject** is a Robotics class project focused on creating an AI-powered drone that can automatically find a landing spot and land safely.
 
+<u>CLICK ON VIDEO TO WATCH</u>
+
 [![Result](https://img.youtube.com/vi/ljOH25H4wb8/0.jpg)](https://www.youtube.com/watch?v=ljOH25H4wb8)
 
 ## Achievements
 
-- **Autonomous Takeoff**: The drone can take off and stabilize in the air.
-- **Circle Tracking**: The drone detects a moving circle on the ground and adjusts its position to stay above it.
+- **Autonomous Takeoff**: The drone can take off and hold a given altitude.
+- **Circle Tracking**: The drone detects a moving circle on the ground and adjusts its position to stay above it at given altitude.
+- **Camera Stabilization**: The camera on the drone stabilizes itself to compensate for the drone’s orientation, ensuring clear and steady footage.
 
 ## Future Goals
 
